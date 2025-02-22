@@ -1,0 +1,31 @@
+1. Un sistema de control de versiones distribuido que permite rastrear cambios en archivos y colaborar en proyectos.
+
+2. git init → Inicializa un repositorio.
+git clone <url> → Clona un repositorio.
+git add <archivo> → Agrega archivos al staging.
+git commit -m "mensaje" → Guarda cambios.
+git push → Sube cambios al remoto.
+git pull → Descarga cambios del remoto.
+git branch → Lista ramas.
+git checkout <rama> → Cambia de rama.
+git merge <rama> → Fusiona ramas.
+git reset/revert → Revierte cambios.
+
+3.Git: Herramienta para control de versiones.
+GitHub: Plataforma para alojar repositorios Git en la nube.
+
+4.git add .
+git commit -m "mensaje"
+git push origin <rama>
+
+5. Es una rama de desarrollo independiente dentro de un repositorio Git.
+
+6. Local: En tu computadora.
+Remoto: Almacenado en la nube (GitHub, GitLab, etc.).
+
+7. Inicializar → git init
+Descargar → git clone <url>
+Agregar archivos → git add <archivo>
+Confirmar cambios → git commit -m "mensaje"
+Subir cambios → git push origin <rama>
+Revertir cambios → git reset o git revert <commit>
